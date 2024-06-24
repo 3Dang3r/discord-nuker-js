@@ -28,7 +28,7 @@ Discord Nuker Bot is a powerful tool for nuke servers use it on your own RISK!
 npm install
 
 
-##Usage
+## Usage
 node index.js
 /dban - ban all members
 /newchannel - create channel
@@ -38,7 +38,7 @@ node index.js
 /dspam - span channels
 /dnuke - do all above
 
-##Configuration
+## Configuration
 Open the .json file and configure the following variables:
 
    ``"clientId": "Your Client id here",
