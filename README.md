@@ -28,24 +28,24 @@ Discord Nuker Bot is a powerful tool for nuke servers use it on your own RISK!
 npm install
 
 
-## Usage
-node index.js
-/dban - ban all members
-/newchannel - create channel
-/dchannel - delete all voice/text channels in guild
-/dmass - Change the guild name and picture
-/drole - delete all roles in guild
-/dspam - span channels
-/dnuke - do all above
+##Usage
+- node index.js
+- /dban - ban all members
+- /newchannel - create channel
+- /dchannel - delete all voice/text channels in guild
+- /dmass - Change the guild name and picture
+- /drole - delete all roles in guild
+- /dspam - span channels
+- /dnuke - do all above
 
-## Configuration
+##Configuration
 Open the .json file and configure the following variables:
 
-   ``"clientId": "Your Client id here",
-    "token": "Your Token here",
-    "newservername": "the new name that you want for the guild",
-    "newservericon": "new icon that you want for the guild",
-    "allbanreason": "ban reason"
+    - "clientId": "Your Client id here",
+   -  "token": "Your Token here",
+   -  "newservername": "the new name that you want for the guild",
+   -  "newservericon": "new icon that you want for the guild",
+   -  "allbanreason": "ban reason"
 
 
 
